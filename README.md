@@ -1,8 +1,8 @@
 # Instituto de Telecomunicações Deep Learning-based Point Cloud Codec (IT-DL-PCC)
 
 This is the software of the codecs submitted to the Call for Proposals on JPEG Pleno Point Cloud Coding issued on January 2022:
-    - IT-DL-PCC-G: Geometry-only codec
-    - IT-DL-PCC-GC: Joint geometry + color codec
+* IT-DL-PCC-G: Geometry-only codec
+* IT-DL-PCC-GC: Joint geometry + color codec
 
 These proposals have been originated by research developed at Instituto de Telecomunicações (IT), in the context of the project Deep-PCR entitled “Deep learning-based Point Cloud Representation” (PTDC/EEI-COM/1125/2021), financed by Fundação para a Ciência e Tecnologia (FCT).
 
