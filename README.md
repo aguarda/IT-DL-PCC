@@ -15,7 +15,7 @@ These proposals have been originated by research developed at Instituto de Telec
 
 * **Source code**: The full source code in `src` to run and train both the IT-DL-PCC codecs.
 * **Rate-Distortion performance results**: The full results obtained for all test point clouds of the JPEG Pleno Point Cloud Coding Call for Proposals are included in `results`.
-* **Trained DL models**: All the trained DL coding models used in the codec can be downloaded [here](https://drive.google.com/file/d/1JDkvcfVcqlwP6TW8Hldw-LS00cRYVsp8/view?usp=sharing). For both geometry-only or joint geometry + color coding, there are 6 DL coding models trained for different rate-distortion trade-offs (Geometry-only: λ = 0.00025, 0.0005, 0.001, 0.0025, 0.005 and 0.01; Joint Geometry + Color: λ = 0.000125, 0.00025, 0.0005, 0.001, 0.002 and 0.004), and 2 DL super-resolution models trained for different sampling factors (2 and 4), for a total of 16 DL models.
+* **Trained DL models**: All the trained DL coding models used in the codec can be downloaded [here](https://drive.google.com/file/d/1st45GUD4MS0bEOjIUwBxTDnQzlN9uGMS/view?usp=sharing). For both geometry-only or joint geometry + color coding, there are 6 DL coding models trained for different rate-distortion trade-offs (Geometry-only: λ = 0.00025, 0.0005, 0.001, 0.0025, 0.005 and 0.01; Joint Geometry + Color: λ = 0.000125, 0.00025, 0.0005, 0.001, 0.002 and 0.004), and 2 DL super-resolution models trained for different sampling factors (2 and 4), for a total of 16 DL models.
 
 # Requirements
 
